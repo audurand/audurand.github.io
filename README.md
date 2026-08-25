@@ -1,2 +1,2 @@
-# audreydurand.github.io
-Academic website
+# Extremely minimalist academic website
+No tabs, no menus, no nothing.
