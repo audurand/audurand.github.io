@@ -1,2 +1,2 @@
-# Extremely minimalist academic website
-No tabs, no menus, no nothing.
+# Academic Website
+Extremely minimalist. No tabs, no menus, no nothing.
